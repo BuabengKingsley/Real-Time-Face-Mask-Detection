@@ -25,10 +25,10 @@ The model was trained on the "Masked-Face Recognition" dataset and achieved:
 Here is the system running in real-time on a video feed:
 
 ### No Mask Detected (Red Warning)
-![No Mask Detection](images/demo_nomask.png)
+![No Mask Detection](images/nomask.png)
 
 ### Mask Detected (Green Safe)
-![Mask Detection](images/demo_mask.png)
+![Mask Detection](images/mask.png)
 
 ### Confusion Matrix
 ![Confusion Matrix](images/confusion%20metrics.png)
