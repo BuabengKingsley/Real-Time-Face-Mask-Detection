@@ -1,0 +1,20 @@
+# Ignore python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore dataset (too big for GitHub, people should download it from Kaggle)
+dataset/
+AFDB_face_dataset/
+AFDB_masked_face_dataset/
+
+# Ignore virtual environments
+env/
+venv/
+.env
+
+# Ignore VS Code settings
+.vscode/
+
+# Keep the model and the script!
+!mask_detector.h5
+!detect_mask_video.py
