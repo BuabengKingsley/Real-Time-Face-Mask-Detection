@@ -21,9 +21,14 @@ The model was trained on the "Masked-Face Recognition" dataset and achieved:
 - **AUC Score:** 1.00
 - **False Positive Rate:** <0.3%
 
-![Confusion Matrix](path_to_your_confusion_matrix_image.png)
 
-## 💻 How to Run
+### Confusion Matrix
+![Confusion Matrix](images/confusion%20metrics.png)
+
+### ROC Curve
+![ROC Curve](images/ROC_AUC.png)
+
+## 💻 How to RunZ
 1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/Real-Time-Face-Mask-Detection.git](https://github.com/YOUR_USERNAME/Real-Time-Face-Mask-Detection.git)
